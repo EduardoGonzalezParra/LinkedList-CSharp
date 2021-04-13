@@ -1,0 +1,13 @@
+F:\Eduardo\Documentos\4to semestre\8-9 Programacion orientada a objetos\Parcial 2\Array-LinkedListCSharp\obj\Debug\netcoreapp3.1\Array-LinkedListCSharp.csprojAssemblyReference.cache
+F:\Eduardo\Documentos\4to semestre\8-9 Programacion orientada a objetos\Parcial 2\Array-LinkedListCSharp\obj\Debug\netcoreapp3.1\Array-LinkedListCSharp.AssemblyInfoInputs.cache
+F:\Eduardo\Documentos\4to semestre\8-9 Programacion orientada a objetos\Parcial 2\Array-LinkedListCSharp\obj\Debug\netcoreapp3.1\Array-LinkedListCSharp.AssemblyInfo.cs
+F:\Eduardo\Documentos\4to semestre\8-9 Programacion orientada a objetos\Parcial 2\Array-LinkedListCSharp\obj\Debug\netcoreapp3.1\Array-LinkedListCSharp.csproj.CoreCompileInputs.cache
+F:\Eduardo\Documentos\4to semestre\8-9 Programacion orientada a objetos\Parcial 2\Array-LinkedListCSharp\bin\Debug\netcoreapp3.1\Array-LinkedListCSharp.exe
+F:\Eduardo\Documentos\4to semestre\8-9 Programacion orientada a objetos\Parcial 2\Array-LinkedListCSharp\bin\Debug\netcoreapp3.1\Array-LinkedListCSharp.deps.json
+F:\Eduardo\Documentos\4to semestre\8-9 Programacion orientada a objetos\Parcial 2\Array-LinkedListCSharp\bin\Debug\netcoreapp3.1\Array-LinkedListCSharp.runtimeconfig.json
+F:\Eduardo\Documentos\4to semestre\8-9 Programacion orientada a objetos\Parcial 2\Array-LinkedListCSharp\bin\Debug\netcoreapp3.1\Array-LinkedListCSharp.runtimeconfig.dev.json
+F:\Eduardo\Documentos\4to semestre\8-9 Programacion orientada a objetos\Parcial 2\Array-LinkedListCSharp\bin\Debug\netcoreapp3.1\Array-LinkedListCSharp.dll
+F:\Eduardo\Documentos\4to semestre\8-9 Programacion orientada a objetos\Parcial 2\Array-LinkedListCSharp\bin\Debug\netcoreapp3.1\Array-LinkedListCSharp.pdb
+F:\Eduardo\Documentos\4to semestre\8-9 Programacion orientada a objetos\Parcial 2\Array-LinkedListCSharp\obj\Debug\netcoreapp3.1\Array-LinkedListCSharp.dll
+F:\Eduardo\Documentos\4to semestre\8-9 Programacion orientada a objetos\Parcial 2\Array-LinkedListCSharp\obj\Debug\netcoreapp3.1\Array-LinkedListCSharp.pdb
+F:\Eduardo\Documentos\4to semestre\8-9 Programacion orientada a objetos\Parcial 2\Array-LinkedListCSharp\obj\Debug\netcoreapp3.1\Array-LinkedListCSharp.genruntimeconfig.cache
